@@ -34,8 +34,8 @@ font-size: 42px;
 
 .tag,
 .location {
-    font-size: 22px;
-    color: aqua;
+    font-size: 26px;
+    color: rgb(126, 207, 14);
     margin-bottom: 3px;
 }
 
@@ -47,6 +47,7 @@ font-size: 42px;
 }
 .label{
     display: block;
+    font-weight: 500;
     color: gray;
     font-size: 22px;
 }

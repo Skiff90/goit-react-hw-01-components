@@ -1,0 +1,37 @@
+.item {
+  width: 100%;
+  padding: 10px 25px 10px 50px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.status {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: transparent;
+}
+
+.isOnline {
+  background-color: green;
+}
+
+.isOfline {
+  background-color: red;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+}
+
+.name {
+  font-weight: 600;
+  font-style: italic;
+  font-size: 26px;
+  box-shadow: rgba(8, 8, 8, 0.35) 10px 10px 15px;
+  padding: 5px;
+}
