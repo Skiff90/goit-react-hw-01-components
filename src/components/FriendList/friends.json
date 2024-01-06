@@ -8,7 +8,7 @@
     {
       "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
       "name": "Kiwi",
-      "isOnline": false,
+      "isOnline": true,
       "id": 1137
     },
     {
@@ -28,5 +28,11 @@
       "name": "Poly",
       "isOnline": false,
       "id": 1284
+    },
+    {
+      "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
+      "name":"Vlados",
+      "isOnline":true,
+      "id":1997
     }
   ]

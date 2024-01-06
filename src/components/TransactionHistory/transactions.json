@@ -118,5 +118,10 @@
     "type": "payment",
     "amount": "405.45",
     "currency": "MDL"
+  },
+  {"id":"balbaeb",
+  "type":"deposit",
+  "amount":"213.10",
+  "currency":"DLB"
   }
 ]
